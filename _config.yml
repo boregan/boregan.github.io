@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://boregan.github.io
+title: Ben O'Regan
+tagline: yooo
+description: heyyy
+paginate: 5
